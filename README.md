@@ -37,9 +37,24 @@ python manage.py startapp <app name>
 
 Ex: python manage.py startapp projects
 
+[6] To create a database and data
+
+ python manage.py makemigrations <app name>
+ 
+ python manage.py migrate <app name>
+  
+ Ex:  python manage.py makemigrations projects
+
+  python manage.py migrate projects 
 
 
+[7] To start a shell
 
+python manage.py shell
+
+To exit from the shell
+
+Ex: exit
 
 
 
