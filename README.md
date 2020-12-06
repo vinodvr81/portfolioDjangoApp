@@ -56,7 +56,9 @@ To exit from the shell
 
 Ex: exit
 
+[8] to create super user
 
+ex: python manage.py createsuperuser
 
 
 
